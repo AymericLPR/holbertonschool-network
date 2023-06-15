@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# netstat -a -p show all active connections and their Ports
+netstat -a -p
